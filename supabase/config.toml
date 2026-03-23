@@ -1,0 +1,2 @@
+[functions.transcript-chat]
+verify_jwt = false
